@@ -33,7 +33,7 @@
 - [GitHub repository](https://github.com/guiwitz/Pandas_course) of the course
 - [pdf](Python_Pandas/e2_all_pandas.pdf) or [html](https://raw.githack.com/mariezufferey/CAS_ADS/master/module5/Python_Pandas/notebooks_html/all_notebooks.html) of all notebooks
 - [notebooks](https://github.com/mariezufferey/CAS_ADS/tree/master/module5/Python_Pandas/notebooks): 
-    - [Pandas introduction](Python_Pandas/notebooks/00-Pandas_introduction.ipynb) ([pdf](Python_Pandas/notebooks_pdf/00-Pandas_introduction.pdf), [html](https://raw.githack.com/mariezufferey/CAS_ADS/master/module5/Python_Pandas/notebooks_html/00-Pandas_introduction.html))
+    - [Pandas introduction](https://github.com/mariezufferey/CAS_ADS/blob/master/module5/Python_Pandas/notebooks/00-Pandas_introduction.ipynb) ([pdf](Python_Pandas/notebooks_pdf/00-Pandas_introduction.pdf), [html](https://raw.githack.com/mariezufferey/CAS_ADS/master/module5/Python_Pandas/notebooks_html/00-Pandas_introduction.html))
     - [Pandas objects](Python_Pandas/notebooks/01-Pandas_structures.ipynb) ([pdf](Python_Pandas/notebooks_pdf/01-Pandas_structures.pdf), [html](https://raw.githack.com/mariezufferey/CAS_ADS/master/module5/Python_Pandas/notebooks_html/01-Pandas_structures.html))
     - [importing excel files](Python_Pandas/notebooks/02-Pandas_import.ipynb) ([pdf](Python_Pandas/notebooks_pdf/02-Pandas_import.pdf), [html](https://raw.githack.com/mariezufferey/CAS_ADS/master/module5/Python_Pandas/notebooks_html/02-Pandas_import.html))
     - [operations with Pandas objects](Python_Pandas/notebooks/03-Pandas_operations.ipynb) ([pdf](Python_Pandas/notebooks_pdf/03-Pandas_operations.pdf), [html](https://raw.githack.com/mariezufferey/CAS_ADS/master/module5/Python_Pandas/notebooks_html/03-Pandas_operations.html))
@@ -209,10 +209,11 @@
 - how to get a certificate ([slides](Dataiku/e7_2_U0Bern_Slidedeck_Certifiable.pdf))
 - personal reading notes from internet about Dataiku concepts ([v1](Dataiku/e7_dataiku_info.pdf), [v2](Dataiku/e7_wwww_concepts.pdf))
 
-##### Mathematical methods for data Science and machine Learning 
+##### Mathematical methods for data science and machine learning 
 
 [[Back to top]](#module-5-consolidations-and-electives)
 
+- [GitHub repository](https://github.com/KingaS03/Mathematics-for-Machine-Learning-and-Data-Science) of the course 
 - [pdf](Mathematics-for-ML/all_MathsForML.pdf) of all notebooks
 - [notebooks](https://github.com/mariezufferey/CAS_ADS/tree/master/module5/Mathematics-for-ML/notebooks):
     - [introduction](Mathematics-for-ML/notebooks/Introduction.ipynb) ([pdf](Mathematics-for-ML/notebooks_pdf/1_Introduction.pdf), [html](https://raw.githack.com/mariezufferey/CAS_ADS/master/module5/Mathematics-for-ML/notebooks_html/Introduction.html)) / [day 1](Mathematics-for-ML/notebooks/MM_Day1.ipynb) ([pdf](Mathematics-for-ML/notebooks_pdf/z_MM_Day1.pdf), [html](https://raw.githack.com/mariezufferey/CAS_ADS/master/module5/Mathematics-for-ML/notebooks_html/MM_Day1.html))
@@ -220,8 +221,10 @@
         - *vector operations - matrix operations - projection and the dot product - orthogonal matrices - change of basis - eigenvalues and eigenvectors of matrices*
     - [calculus](Mathematics-for-ML/notebooks/Calculus.ipynb) ([pdf](Mathematics-for-ML/notebooks_pdf/3_Calculus.pdf), [html](https://raw.githack.com/mariezufferey/CAS_ADS/master/module5/Mathematics-for-ML/notebooks_html/Calculus.html))
         - *differentiation of univariate functions - rules of differentiation - differentiation of multivariate functions (the Jacobian, the Hessian) - chain rule for univariate and multivariate functions - the Taylor approximation - the Newton-Raphson method - gradient descent method - backpropagation*
+- other ressources:
+    - [Mathematics for Machine Learning](https://mml-book.github.io/) (online available book)
 
-##### Machine Learning review 
+##### Machine learning review 
 
 [[Back to top]](#module-5-consolidations-and-electives)
 
