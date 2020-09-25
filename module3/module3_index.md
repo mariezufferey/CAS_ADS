@@ -25,17 +25,17 @@ Estimation](pdf_lectures/day1_talk1_2-GANS-Passwords-Implicit-Generative-Modelin
 
  
 ### Tutorials (juypter notebooks)
-- day 1 - tutorial 1: ([jupyter notebook](tutorials/TutorialI.ipynb), [pdf](tutorials/TutorialI.pdf))
+- day 1 - tutorial 1: ([jupyter notebook](https://github.com/mariezufferey/CAS_ADS/blob/master/module3/tutorials/TutorialI.ipynb), [pdf](tutorials/TutorialI.pdf))
     -  *Introduction to TensorFlow*
-- day 1 - tutorial 2: ([jupyter notebook](tutorials/TutorialII.ipynb), [pdf](tutorials/TutorialII.pdf))
+- day 1 - tutorial 2: ([jupyter notebook](https://github.com/mariezufferey/CAS_ADS/blob/master/module3/tutorials/TutorialII.ipynb), [pdf](tutorials/TutorialII.pdf))
     - *Optimization in TensorFlow - Introduction to neural networks in TensorFlow*
-- day 2 - tutorial 3: ([jupyter notebook](tutorials/TutorialIII.ipynb), [pdf](tutorials/TutorialIII.pdf))
+- day 2 - tutorial 3: ([jupyter notebook](https://github.com/mariezufferey/CAS_ADS/blob/master/module3/tutorials/TutorialIII.ipynb), [pdf](tutorials/TutorialIII.pdf))
     -  *Handwritten digit recognition*
-- day 2 - tutorial 4: ([jupyter notebook](tutorials/TutorialIV.ipynb), [pdf](tutorials/TutorialIV.pdf))
+- day 2 - tutorial 4: ([jupyter notebook](https://github.com/mariezufferey/CAS_ADS/blob/master/module3/tutorials/TutorialIV.ipynb), [pdf](tutorials/TutorialIV.pdf))
     -  *Convolutions - Image recognition with Inception*
-- day 3 - tutorial 5: ([jupyter notebook - v1](tutorials/TutorialV.ipynb), [jupyter notebook - v2](tutorials/Tutorial_T-V_split_solution.ipynb), [pdf -  v1](tutorials/TutorialV.pdf), [pdf - v2](tutorials/Tutorial_V_T-V_split_solution.pdf))
+- day 3 - tutorial 5: ([jupyter notebook - v1](https://github.com/mariezufferey/CAS_ADS/blob/master/module3/tutorials//TutorialV.ipynb), [jupyter notebook - v2](https://github.com/mariezufferey/CAS_ADS/blob/master/module3/tutorials/Tutorial_T-V_split_solution.ipynb), [pdf -  v1](tutorials/TutorialV.pdf), [pdf - v2](tutorials/Tutorial_V_T-V_split_solution.pdf))
     - *Deep models - Image classifier using pretrained Inception model*
-- day 4 - tutorial 6: ([jupyter notebook](tutorials/TutorialVI.ipynb), [pdf](tutorials/TutorialVI.pdf))
+- day 4 - tutorial 6: ([jupyter notebook](https://github.com/mariezufferey/CAS_ADS/blob/master/module3/tutorials/TutorialVI.ipynb), [pdf](tutorials/TutorialVI.pdf))
     -  *Recurrent neural networks to predict/generate text sequence*
     
 ### Other links
